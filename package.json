@@ -1,0 +1,24 @@
+{
+  "name": "cucumber",
+  "version": "0.0.1",
+  "description": "A demo BDD project using Cucumber and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/%3Aanthonyjsargeant/cucumber.git"
+  },
+  "keywords": [
+    "cucumber",
+    "javascript",
+    "node"
+  ],
+  "author": "Anthony Sargeant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/%3Aanthonyjsargeant/cucumber/issues"
+  },
+  "homepage": "https://github.com/%3Aanthonyjsargeant/cucumber#readme"
+}
