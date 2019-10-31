@@ -178,3 +178,7 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+cucumber.iml
+misc.xml
+modules.xml
+vcs.xml
