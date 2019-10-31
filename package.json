@@ -22,9 +22,7 @@
     "url": "https://github.com/%3Aanthonyjsargeant/cucumber/issues"
   },
   "homepage": "https://github.com/%3Aanthonyjsargeant/cucumber#readme",
-  "dependencies": {
-    "esm": "3.2.25"
-  },
+  "dependencies": {},
   "devDependencies": {
     "cucumber": "6.0.3",
     "standard": "14.3.1"
